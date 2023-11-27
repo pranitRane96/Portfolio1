@@ -1,6 +1,6 @@
 export const aboutData = {
     title: "Who I am",
-    description1: "My name's Jane. I'm a web designer and developer based in Southampton, UK.",
-    description2: "During the day I work as a lead developer at a local agency and in the evening I  work on freelance projects and utilize the time to built my own products. I spent my leisure hours writing articles and poetry. Right now I'm also trying a hand at machine learning and AI. I love to learn and explore new arenas.",
+    description1: "My name's Omkar. I'm a Robotics Graduate Student based in Maryland, USA.",
+    description2: "As a Recruitment and Retention Manager at University of Maryland - Department of Transportation Services, I oversee the hiring, training, and retention of a diverse and skilled workforce of over 100 employees. I leverage my professional background to design and implement innovative and engaging programs and initiatives that foster a culture of excellence, collaboration, and inclusion. I have successfully increased the employee retention rate by 30% and improved the employee satisfaction score by 25% in the past year.",
     image: 2
 }
